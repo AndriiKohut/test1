@@ -1,0 +1,18 @@
+<svg width="21" height="17" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" opacity="0.5">
+   <rect fill="none" id="svg_2" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#333333" height="10.8333" width="12.5" y="1" x="1"/>
+   <path fill="none" id="svg_3" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#333333" d="m13.5,5.16669l3.3333,0l2.5,2.5l0,4.16671l-5.8333,0l0,-6.66671l0,0z" clip-rule="evenodd" fill-rule="evenodd"/>
+   <path fill="none" id="svg_4" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#333333" d="m4.74935,16c1.15059,0 2.08333,-0.9328 2.08333,-2.0834c0,-1.1505 -0.93274,-2.0833 -2.08333,-2.0833c-1.15059,0 -2.08333,0.9328 -2.08333,2.0833c0,1.1506 0.93274,2.0834 2.08333,2.0834z" clip-rule="evenodd" fill-rule="evenodd"/>
+   <path fill="none" id="svg_5" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#333333" d="m15.5833,16c1.1506,0 2.0834,-0.9328 2.0834,-2.0834c0,-1.1505 -0.9328,-2.0833 -2.0834,-2.0833c-1.1506,0 -2.0833,0.9328 -2.0833,2.0833c0,1.1506 0.9327,2.0834 2.0833,2.0834z" clip-rule="evenodd" fill-rule="evenodd"/>
+   <polyline stroke="null" stroke-linecap="round" id="svg_7" points="5.187456130981445,5.43745231628418 5.187456130981445,5.43745231628418 " stroke-width="1.5" fill="none"/>
+   <polyline stroke="null" stroke-linecap="round" id="svg_8" points="2.812488555908203,2.8751044273376465 2.812488555908203,2.8751044273376465 " stroke-width="1.5" fill="none"/>
+  </g>
+ </g>
+</svg>
